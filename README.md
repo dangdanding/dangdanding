@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @dangdanding
 - 👀 I've been 20+ years experiences in network firewall device testing, tcp/ip protocols, Linux/network sysadmin
-- 👀 I've worked through and leaded completely processes of security device/software testing lifecycle, be familiar with software develop processes and work with different teams
+- 👀 I've been worked through and leaded completely processes of security device/software testing lifecycle, be familiar with software develop processes and skills to work with different teams
 - 👀 I’m interested in ...test automation scripting, testing archetecture
 - 🌱 I’m currently working on ...python and security device testign.
 - 💞️ I’m looking to get a new career oppertunity as my previous employer Junipter networks closed its Beijing R&D
